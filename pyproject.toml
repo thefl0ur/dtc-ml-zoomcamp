@@ -1,0 +1,15 @@
+[project]
+name = "dtc-ml-zoomcapm-2025"
+version = "0.1.0"
+description = "DataTalksClub: Machine Learning Zoomcamp (2025)"
+readme = "README.md"
+requires-python = ">=3.12.9"
+dependencies = [
+    "jupyterlab>=4.4.7",
+    "matplotlib>=3.10.6",
+    "notebook>=7.4.5",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]
