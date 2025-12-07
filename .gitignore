@@ -5,3 +5,5 @@ __pycache__/
 /**/*.csv
 
 .python-version
+
+08_deep_learning/data/*
